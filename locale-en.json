@@ -22,11 +22,15 @@
   "mobile-app-profile-button": "Start trading",
   "mobile-app-secured": "Secured funds in EU bank",
   "mobile-app-privacy": "Privacy Policy",
+  "mobile-app-error-invalid-name": "Incorrect name format",
+  "mobile-app-error-invalid-surname": "Incorrect surname format",
+  "mobile-app-error-invalid-phone": "Incorrect phone format",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email": "Required field: email",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password": "Required field: password",
   "mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email": "Incorrect username or password",
   "mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email": "This value is not a valid email address",
   "mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email": "This value is not a valid email address",
   "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Password is too short. It should have 8 characters or more",
-  "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "User not exists"
+  "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "User not exists",
+  "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "Указанный адрес эл.почты уже используется"
 }
