@@ -31,5 +31,6 @@
   "mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email": "Указанный адрес эл. почты невалиден",
   "mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email": "Указанный адрес эл. почты невалиден",
   "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Пароль должен содержать 8 или более символов",
-  "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Пользователь не существует"
+  "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Пользователь не существует",
+  "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "Указанный адрес эл.почты уже используется"
 }
