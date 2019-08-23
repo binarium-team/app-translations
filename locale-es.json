@@ -1,7 +1,7 @@
 {
   "mobile-app-hello": "Bienvenido\/a",
   "mobile-app-greeting": "Regístrese y empiece a ganar dinero hoy mismo",
-  "mobile-app-signup": "Abrir una cuentagratis",
+  "mobile-app-signup": "Abrir una cuenta gratis",
   "mobile-app-currency": "Moneda",
   "mobile-app-email": "Correo electrónico",
   "mobile-app-password": "Contraseña",
@@ -20,18 +20,18 @@
   "mobile-app-surname": "Apellido",
   "mobile-app-phone": "Número de teléfono",
   "mobile-app-profile-button": "Comenzar a operar",
-  "mobile-app-secured": "Fondos segurosen banco de la UE",
+  "mobile-app-secured": "Fondos seguros en banco de la UE",
   "mobile-app-privacy": "Política de privacidad",
   "mobile-app-error-invalid-name": "Formato de nombre incorrecto",
   "mobile-app-error-invalid-surname": "Formato de apellido incorrecto",
   "mobile-app-error-invalid-phone": "Formato de teléfono incorrecto",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email": "Campo obligatorio: correo electrónico",
-  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password": "Required field: password",
+  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password": "Campo obligatorio: contraseña",
   "mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email": "Nombre de usuario o contraseña incorrectos",
   "mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email": "Este valor contiene una dirección de correo electrónico inválida",
   "mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email": "Este valor contiene una dirección de correo electrónico inválida",
-  "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Este valor es demasiado corto. Debe tener 8 caracteres o más",
+  "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "La contraseña es demasiado corta. Debe tener 8 caracteres o más",
   "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "El usuario no existe",
   "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Esta dirección de correo ya está en uso",
-  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Este correo electrónico ya está en uso"
+  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Esta dirección de correo ya está en uso"
 }
