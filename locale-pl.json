@@ -33,5 +33,6 @@
   "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Ta wartość jest zbyt krótka. Powinna zawierać więcej znaków, co najmniej 8",
   "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Użytkownik nie istnieje",
   "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Ten adres e-mail jest już używany",
-  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Ten adres e-mail jest już używany"
+  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Ten adres e-mail jest już używany",
+  "mobile-app-error-invalid-email": "Required field: email"
 }
