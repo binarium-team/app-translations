@@ -34,5 +34,5 @@
   "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Người dùng không tồn tại",
   "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Email này đã được sử dụng",
   "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Email này đã được sử dụng rồi",
-  "mobile-app-error-invalid-email": "Required field: email"
+  "mobile-app-error-invalid-email": "Trường bắt buộc: email"
 }
