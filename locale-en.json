@@ -33,5 +33,6 @@
   "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Password is too short. It should have 8 characters or more",
   "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "User not exists",
   "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "This email is already used",
-  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "This email is already in use"
+  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "This email is already in use",
+  "mobile-app-error-invalid-email": "Required field: email"
 }
