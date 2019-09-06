@@ -30,6 +30,7 @@
   "mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email": "Nome utente o password errata",
   "mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email": "Questo valore non è un indirizzo e-mail valido",
   "mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email": "Questo valore non è un indirizzo e-mail valido",
+  "mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email": "This value is not a valid email address",
   "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Questo valore è troppo breve. Dovrebbe avere 8 o più caratteri",
   "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Utente inesistente",
   "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Questa e-mail è già in uso",
