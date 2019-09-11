@@ -36,5 +36,5 @@
   "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Вказана адреса ел. пошти вже використовується",
   "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Даний email вже зареєстровано в системі",
   "mobile-app-error-invalid-email": "Обов'язкове поле: ел. пошта",
-  "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Ошибка авторизации, пожалуйста обратитесь в службу поддержки support@binarium.com"
+  "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Помилка авторизації, будь ласка, зверніться в службу підтримки support@binarium.com"
 }
