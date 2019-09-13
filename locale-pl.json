@@ -35,5 +35,6 @@
   "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Użytkownik nie istnieje",
   "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Ten adres e-mail jest już używany",
   "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Ten adres e-mail jest już używany",
-  "mobile-app-error-invalid-email": "Wymagane pole: adres e-mail"
+  "mobile-app-error-invalid-email": "Wymagane pole: adres e-mail",
+  "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Autoryzacja nie powiodła się. Aby uzyskać więcej informacji, skontaktuj się z naszym działem obsługi klienta pod adresem support@binarium.com"
 }
