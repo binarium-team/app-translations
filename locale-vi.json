@@ -38,6 +38,6 @@
   "mobile-app-error-invalid-email": "Trường bắt buộc: email",
   "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Ủy quyền thất bại. Để biết thêm chi tiết vui lòng liên hệ bộ phận hỗ trợ khách hàng của chúng tôi tại support@binarium.com",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Hãy thể hiện rằng bạn không phải là một rôbốt",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "Bạn không phải rô-bốt, phải không?",
+  "captcha@text": "Hãy tích vào hộp kiểm dưới đây."
 }
