@@ -38,6 +38,6 @@
   "mobile-app-error-invalid-email": "Campo obligatorio: correo electrónico",
   "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Error de autorización. Para más detalles, por favor contáctese con nuestro Soporte al cliente escribiendo a support@binarium.com",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Por favor, demuestre que no es un robot",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "Demuestre que no es un robot.",
+  "captcha@text": "Por favor, haga clic en la casilla de abajo."
 }
