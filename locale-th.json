@@ -38,6 +38,6 @@
   "mobile-app-error-invalid-email": "ช่องที่จำเป็นต้องกรอก: อีเมล",
   "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "การตรวจสอบสิทธิ์ล้มเหลว สำหรับข้อมูลเพิ่มเติม กรุณาติดต่อฝ่ายบริการลูกค้าของเราที่ support@binarium.com",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "กรุณาแสดงว่า คุณไม่ใช่หุ่นยนต์",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "คุณไม่ใช่หุ่นยนต์ ถูกต้องหรือไม่?",
+  "captcha@text": "กรุณาคลิกกล่องกาเครื่องหมายด้านล่าง"
 }
