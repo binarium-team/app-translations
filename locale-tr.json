@@ -38,6 +38,6 @@
   "mobile-app-error-invalid-email": "Gerekli alan: e-posta",
   "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Onay başarısız oldu. Daha fazla bilgi için lütfen support@binarium.com adresinden müşteri desteğimize ulaşın",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Lütfen robot olmadığınızı gönderin",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "Robot değilsiniz, değil mi?",
+  "captcha@text": "Lütfen aşağıdaki kutucuğu işaretleyin."
 }
