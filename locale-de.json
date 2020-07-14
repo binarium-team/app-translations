@@ -38,6 +38,6 @@
   "mobile-app-error-invalid-email": "Pflichtfeld: E-Mail-Adresse",
   "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Autorisierung fehlgeschlagen. Weitere Informationen erhalten Sie über unseren Support unter support@binarium.com",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Bitte zeigen Sie uns, dass Sie kein Roboter sind",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "Sie sind kein Roboter, richtig?",
+  "captcha@text": "Bitte klicken Sie das Kontrollkästchen unten an."
 }
