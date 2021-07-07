@@ -1,42 +1,44 @@
-"Identifier","Source String/Translation"
-"mobile-app-hello","Bienvenido/a"
-"mobile-app-greeting","Regístrese y empiece a ganar dinero hoy mismo"
-"mobile-app-signup","Abrir una cuenta gratis"
-"mobile-app-currency","Moneda"
-"mobile-app-email","Correo electrónico"
-"mobile-app-password","Contraseña"
-"mobile-app-signup-button","Registrarse"
-"mobile-app-signin","Iniciar sesión"
-"mobile-app-forgot","¿Ha olvidado su contraseña?"
-"mobile-app-reset-button","Enviar"
-"mobile-app-reset-send","Le enviaremos las instrucciones por correo electrónico"
-"mobile-app-signup-social","o regístrese con una cuenta de red social"
-"mobile-app-signin-social","o inicie sesión con una cuenta de red social"
-"mobile-app-signup-agreement","Al registrarse, usted acepta los términos y condiciones"
-"mobile-app-signup-agreement-review","Vista previa"
-"mobile-app-howto","¿Cómo funciona?"
-"mobile-app-profile-fill","Complete los campos vacíos y obtenga una bonificación"
-"mobile-app-name","Nombre"
-"mobile-app-surname","Apellido"
-"mobile-app-phone","Número de teléfono"
-"mobile-app-profile-button","Comenzar a operar"
-"mobile-app-secured","Fondos seguros en banco de la UE"
-"mobile-app-privacy","Política de privacidad"
-"mobile-app-error-invalid-name","Formato de nombre incorrecto"
-"mobile-app-error-invalid-surname","Formato de apellido incorrecto"
-"mobile-app-error-invalid-phone","Formato de teléfono incorrecto"
-"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email","Campo obligatorio: correo electrónico"
-"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password","Campo obligatorio: contraseña"
-"mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email","Nombre de usuario o contraseña incorrectos"
-"mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email","Este valor contiene una dirección de correo electrónico inválida"
-"mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email","Este valor contiene una dirección de correo electrónico inválida"
-"mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email","Este valor contiene una dirección de correo electrónico inválida"
-"mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password","La contraseña es demasiado corta. Debe tener 8 caracteres o más"
-"mobile-app-error-f3a5b44d01097d966072b90187a16ec6","El usuario no existe"
-"mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email","Esta dirección de correo ya está en uso"
-"mobile-app-error-da02b2e252e8e33948721cc03b006d38","Esta dirección de correo ya está en uso"
-"mobile-app-error-invalid-email","Campo obligatorio: correo electrónico"
-"mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd","Error de autorización. Para más detalles, por favor contáctese con nuestro Soporte al cliente escribiendo a support@binarium.com"
-"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response","Por favor, demuestre que no es un robot"
-"captcha@title","Demuestre que no es un robot."
-"captcha@text","Por favor, haga clic en la casilla de abajo."
+{
+  "mobile-app-hello": "Добро пожаловать",
+  "mobile-app-greeting": "Зарегистрируйтесь и начните зарабатывать прямо сейчас",
+  "mobile-app-signup": "Открыть счет бесплатно",
+  "mobile-app-currency": "Валюта",
+  "mobile-app-email": "Эл. почта",
+  "mobile-app-password": "Пароль",
+  "mobile-app-signup-button": "Зарегистрироваться",
+  "mobile-app-signin": "Войти",
+  "mobile-app-forgot": "Забыли пароль?",
+  "mobile-app-reset-button": "Отправить",
+  "mobile-app-reset-send": "Инструкция по восстановлению пароля будет отправлена на вашу почту",
+  "mobile-app-signup-social": "или зарегистрируйтесь с помощью соц. сетей",
+  "mobile-app-signin-social": "или войдите с помощью соц. сетей",
+  "mobile-app-signup-agreement": "Регистрируясь, вы соглашаетесь с условиями лицензионного соглашения",
+  "mobile-app-signup-agreement-review": "Посмотреть",
+  "mobile-app-howto": "Как это работает?",
+  "mobile-app-profile-fill": "Заполните пустые поля и получите бонус",
+  "mobile-app-name": "Имя",
+  "mobile-app-surname": "Фамилия",
+  "mobile-app-phone": "Номер телефона",
+  "mobile-app-profile-button": "Начать торговать",
+  "mobile-app-secured": "Безопасность средств в европейском банке",
+  "mobile-app-privacy": "Политика неразглашения личных данных",
+  "mobile-app-error-invalid-name": "Некорректный формат имени",
+  "mobile-app-error-invalid-surname": "Некорректный формат фамилии",
+  "mobile-app-error-invalid-phone": "Некорректный формат телефона",
+  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email": "Обязательное поле: эл. почта",
+  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password": "Обязательное поле: пароль",
+  "mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email": "Логин или пароль введен неверно",
+  "mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email": "Указанный адрес эл. почты невалиден",
+  "mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email": "Указанный адрес эл. почты невалиден",
+  "mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email": "Указанный адрес эл. почты невалиден",
+  "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Пароль должен содержать 8 или более символов",
+  "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Пользователь не существует",
+  "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Указанный адрес эл.почты уже используется",
+  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Данный email уже зарегистрирован в системе",
+  "mobile-app-error-invalid-email": "Обязательное поле: эл. почта",
+  "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Ошибка авторизации, пожалуйста обратитесь в службу поддержки support@binarium.com",
+  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Пожалуйста, подтвердите, что вы не робот",
+  "mobile-app-error-81a59798b0424ab80ff5da93e148763a": "Ошибка авторизации, пожалуйста обратитесь в службу поддержки support@binarium.com",
+  "captcha@title": "Вы ведь не робот?",
+  "captcha@text": "Пожалуйста, кликните на чекбокс ниже."
+}
