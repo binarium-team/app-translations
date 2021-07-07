@@ -1,13 +1,13 @@
 {
   "mobile-app-hello": "Welcome",
   "mobile-app-greeting": "Sign up and start earning right away",
-  "mobile-app-signup": "Open account for free",
+  "mobile-app-signup": "Create account for free",
   "mobile-app-currency": "Currency",
   "mobile-app-email": "E-mail",
   "mobile-app-password": "Password",
   "mobile-app-signup-button": "Sign up",
   "mobile-app-signin": "Sign in",
-  "mobile-app-forgot": "Forgot your password?",
+  "mobile-app-forgot": "Forgot password?",
   "mobile-app-reset-button": "Send",
   "mobile-app-reset-send": "Instructions will be sent to your e-mail",
   "mobile-app-signup-social": "or sign up with social accounts",
@@ -38,7 +38,7 @@
   "mobile-app-error-invalid-email": "Required field: email",
   "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Authorization failed. For more details please contact our client support support@binarium.com",
   "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Please show you're not a robot",
-  "mobile-app-error-81a59798b0424ab80ff5da93e148763a": "Ошибка авторизации, пожалуйста обратитесь в службу поддержки support@binarium.com",
+  "mobile-app-error-81a59798b0424ab80ff5da93e148763a": "Authorization failed. For more details please contact our client support support@binarium.com",
   "captcha@title": "You're not a robot, right?",
   "captcha@text": "Please click the checkbox below."
 }
