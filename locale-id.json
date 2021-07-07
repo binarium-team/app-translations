@@ -1,42 +1,44 @@
-"Identifier","Source String/Translation"
-"mobile-app-hello","Selamat datang"
-"mobile-app-greeting","Daftar dan mulai menghasilkan uang segera"
-"mobile-app-signup","Buka akun secara gratis"
-"mobile-app-currency","Mata uang"
-"mobile-app-email","Email"
-"mobile-app-password","Kata sandi"
-"mobile-app-signup-button","Daftar"
-"mobile-app-signin","Masuk"
-"mobile-app-forgot","Lupa kata sandi?"
-"mobile-app-reset-button","Kirim"
-"mobile-app-reset-send","Instruksi akan dikirim ke email Anda"
-"mobile-app-signup-social","atau daftar dengen akun media sosial"
-"mobile-app-signin-social","atau masuk dengen akun media sosial"
-"mobile-app-signup-agreement","Saat mendaftar, Anda menyetujui syarat dan ketentuan"
-"mobile-app-signup-agreement-review","Pratinjau"
-"mobile-app-howto","Bagaimana cara kerjanya?"
-"mobile-app-profile-fill","Isilah bagian yang kosong untuk mendapatkan bonus"
-"mobile-app-name","Nama"
-"mobile-app-surname","Nama Belakang"
-"mobile-app-phone","Nomor telepon"
-"mobile-app-profile-button","Mulai trading"
-"mobile-app-secured","Dana diamankan di bank UE"
-"mobile-app-privacy","Kebijakan Privasi"
-"mobile-app-error-invalid-name","Format nama salah"
-"mobile-app-error-invalid-surname","Format nama belakang salah"
-"mobile-app-error-invalid-phone","Format telepon salah"
-"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email","Harus diisi: email"
-"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password","Harus diisi: kata sandi"
-"mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email","Nama pengguna atau kata sandi salah"
-"mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email","Isian alamat email ini tidak benar"
-"mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email","Isian alamat email ini tidak benar"
-"mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email","Isian alamat email ini tidak benar"
-"mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password","Kata sandi terlalu pendek. Harus terdapat 8 karakter atau lebih"
-"mobile-app-error-f3a5b44d01097d966072b90187a16ec6","Pengguna tidak ada"
-"mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email","Email ini sudah digunakan"
-"mobile-app-error-da02b2e252e8e33948721cc03b006d38","Email ini sudah digunakan"
-"mobile-app-error-invalid-email","Harus diisi: email"
-"mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd","Otorisasi gagal. Untuk informasi lebih lanjut, silakan hubungi dukungan klien kami di support@binarium.com"
-"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response","Harap buktikan bahwa Anda bukan robot"
-"captcha@title","Anda bukanlah robot, bukan?"
-"captcha@text","Klik kotak centang di bawah ini."
+{
+  "mobile-app-hello": "Добро пожаловать",
+  "mobile-app-greeting": "Зарегистрируйтесь и начните зарабатывать прямо сейчас",
+  "mobile-app-signup": "Открыть счет бесплатно",
+  "mobile-app-currency": "Валюта",
+  "mobile-app-email": "Эл. почта",
+  "mobile-app-password": "Пароль",
+  "mobile-app-signup-button": "Зарегистрироваться",
+  "mobile-app-signin": "Войти",
+  "mobile-app-forgot": "Забыли пароль?",
+  "mobile-app-reset-button": "Отправить",
+  "mobile-app-reset-send": "Инструкция по восстановлению пароля будет отправлена на вашу почту",
+  "mobile-app-signup-social": "или зарегистрируйтесь с помощью соц. сетей",
+  "mobile-app-signin-social": "или войдите с помощью соц. сетей",
+  "mobile-app-signup-agreement": "Регистрируясь, вы соглашаетесь с условиями лицензионного соглашения",
+  "mobile-app-signup-agreement-review": "Посмотреть",
+  "mobile-app-howto": "Как это работает?",
+  "mobile-app-profile-fill": "Заполните пустые поля и получите бонус",
+  "mobile-app-name": "Имя",
+  "mobile-app-surname": "Фамилия",
+  "mobile-app-phone": "Номер телефона",
+  "mobile-app-profile-button": "Начать торговать",
+  "mobile-app-secured": "Безопасность средств в европейском банке",
+  "mobile-app-privacy": "Политика неразглашения личных данных",
+  "mobile-app-error-invalid-name": "Некорректный формат имени",
+  "mobile-app-error-invalid-surname": "Некорректный формат фамилии",
+  "mobile-app-error-invalid-phone": "Некорректный формат телефона",
+  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email": "Обязательное поле: эл. почта",
+  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password": "Обязательное поле: пароль",
+  "mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email": "Логин или пароль введен неверно",
+  "mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email": "Указанный адрес эл. почты невалиден",
+  "mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email": "Указанный адрес эл. почты невалиден",
+  "mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email": "Указанный адрес эл. почты невалиден",
+  "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Пароль должен содержать 8 или более символов",
+  "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Пользователь не существует",
+  "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Указанный адрес эл.почты уже используется",
+  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Данный email уже зарегистрирован в системе",
+  "mobile-app-error-invalid-email": "Обязательное поле: эл. почта",
+  "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Ошибка авторизации, пожалуйста обратитесь в службу поддержки support@binarium.com",
+  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Пожалуйста, подтвердите, что вы не робот",
+  "mobile-app-error-81a59798b0424ab80ff5da93e148763a": "Ошибка авторизации, пожалуйста обратитесь в службу поддержки support@binarium.com",
+  "captcha@title": "Вы ведь не робот?",
+  "captcha@text": "Пожалуйста, кликните на чекбокс ниже."
+}
