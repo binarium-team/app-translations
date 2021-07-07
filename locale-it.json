@@ -1,43 +1,42 @@
-{
-  "mobile-app-hello": "Benvenuto",
-  "mobile-app-greeting": "Registrati e inizia subito a guadagnare",
-  "mobile-app-signup": "Apri un conto gratuitamente",
-  "mobile-app-currency": "Valuta",
-  "mobile-app-email": "E-mail",
-  "mobile-app-password": "Password",
-  "mobile-app-signup-button": "Registrati",
-  "mobile-app-signin": "Accedi",
-  "mobile-app-forgot": "Hai dimenticato la password?",
-  "mobile-app-reset-button": "Invia",
-  "mobile-app-reset-send": "Le istruzioni saranno inviate al tuo indirizzo e-mail",
-  "mobile-app-signup-social": "in alternativa, registrati con gli account social",
-  "mobile-app-signin-social": "in alternativa, accedi con gli account social",
-  "mobile-app-signup-agreement": "Registrandoti, accetti i termini e le condizioni",
-  "mobile-app-signup-agreement-review": "Anteprima",
-  "mobile-app-howto": "Come funziona?",
-  "mobile-app-profile-fill": "Compila i campi vuoti e ottieni un bonus",
-  "mobile-app-name": "Nome",
-  "mobile-app-surname": "Cognome",
-  "mobile-app-phone": "Numero di telefono",
-  "mobile-app-profile-button": "Inizia a fare trading",
-  "mobile-app-secured": "Fondi garantiti nella banca dell'UE",
-  "mobile-app-privacy": "Normativa sulla privacy",
-  "mobile-app-error-invalid-name": "Formato nome errato",
-  "mobile-app-error-invalid-surname": "Formato cognome errato",
-  "mobile-app-error-invalid-phone": "Formato telefono errato",
-  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email": "Campo obbligatorio: e-mail",
-  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password": "Campo obbligatorio: password",
-  "mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email": "Nome utente o password errata",
-  "mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email": "Questo valore non è un indirizzo e-mail valido",
-  "mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email": "Questo valore non è un indirizzo e-mail valido",
-  "mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email": "Questo valore non è un indirizzo e-mail valido",
-  "mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password": "Questo valore è troppo breve. Dovrebbe avere 8 o più caratteri",
-  "mobile-app-error-f3a5b44d01097d966072b90187a16ec6": "Utente inesistente",
-  "mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email": "Questa e-mail è già in uso",
-  "mobile-app-error-da02b2e252e8e33948721cc03b006d38": "Questa e-mail è già in uso",
-  "mobile-app-error-invalid-email": "Campo obbligatorio: e-mail",
-  "mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd": "Autorizzazione non riuscita. Per maggiori dettagli contatta il nostro supporto clienti all'indirizzo support@binarium.com",
-  "mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Dimostra di non essere un robot",
-  "captcha@title": "Non sei un robot, vero?",
-  "captcha@text": "Fai clic sulla casella di controllo sottostante."
-}
+"Identifier","Source String/Translation"
+"mobile-app-hello","Benvenuto"
+"mobile-app-greeting","Registrati e inizia subito a guadagnare"
+"mobile-app-signup","Apri un conto gratuitamente"
+"mobile-app-currency","Valuta"
+"mobile-app-email","E-mail"
+"mobile-app-password","Password"
+"mobile-app-signup-button","Registrati"
+"mobile-app-signin","Accedi"
+"mobile-app-forgot","Hai dimenticato la password?"
+"mobile-app-reset-button","Invia"
+"mobile-app-reset-send","Le istruzioni saranno inviate al tuo indirizzo e-mail"
+"mobile-app-signup-social","in alternativa, registrati con gli account social"
+"mobile-app-signin-social","in alternativa, accedi con gli account social"
+"mobile-app-signup-agreement","Registrandoti, accetti i termini e le condizioni"
+"mobile-app-signup-agreement-review","Anteprima"
+"mobile-app-howto","Come funziona?"
+"mobile-app-profile-fill","Compila i campi vuoti e ottieni un bonus"
+"mobile-app-name","Nome"
+"mobile-app-surname","Cognome"
+"mobile-app-phone","Numero di telefono"
+"mobile-app-profile-button","Inizia a fare trading"
+"mobile-app-secured","Fondi garantiti nella banca dell'UE"
+"mobile-app-privacy","Normativa sulla privacy"
+"mobile-app-error-invalid-name","Formato nome errato"
+"mobile-app-error-invalid-surname","Formato cognome errato"
+"mobile-app-error-invalid-phone","Formato telefono errato"
+"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_email","Campo obbligatorio: e-mail"
+"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_password","Campo obbligatorio: password"
+"mobile-app-error-4dba5f9c79ae34be5884e1a3c8c45e92_email","Nome utente o password errata"
+"mobile-app-error-bd79c0ab-ddba-46cc-a703-a7a4b08de310_email","Questo valore non è un indirizzo e-mail valido"
+"mobile-app-error-de1e3db3-5ed4-4941-aae4-59f3667cc3a3_email","Questo valore non è un indirizzo e-mail valido"
+"mobile-app-error-bf447c1c-0266-4e10-9c6c-573df282e413_email","Questo valore non è un indirizzo e-mail valido"
+"mobile-app-error-9ff3fdc4-b214-49db-8718-39c315e33d45_password","Questo valore è troppo breve. Dovrebbe avere 8 o più caratteri"
+"mobile-app-error-f3a5b44d01097d966072b90187a16ec6","Utente inesistente"
+"mobile-app-error-23bd9dbf-6b9b-41cd-a99e-4844bcf3077f_email","Questa e-mail è già in uso"
+"mobile-app-error-da02b2e252e8e33948721cc03b006d38","Questa e-mail è già in uso"
+"mobile-app-error-invalid-email","Campo obbligatorio: e-mail"
+"mobile-app-error-e2b542cacda91ab48e3679c2ab5dcccd","Autorizzazione non riuscita. Per maggiori dettagli contatta il nostro supporto clienti all'indirizzo support@binarium.com"
+"mobile-app-error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response","Dimostra di non essere un robot"
+"captcha@title","Non sei un robot, vero?"
+"captcha@text","Fai clic sulla casella di controllo sottostante."
